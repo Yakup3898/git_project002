@@ -15,7 +15,11 @@ public class FirstClass {
 		System.out.println("first commit from yakup branch");
 		
 		System.out.println("The second commit from local yakup");
+
+		System.out.println("The third commit from local yakup");
+
 		System.out.println("This is our conflict");
+
 	}
 
 }
